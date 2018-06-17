@@ -147,3 +147,7 @@ h6.padded, p.padded{
 	margin-top: 10px;
 	margin-bottom: 2px;
 }
+
+.row > .columns:not(:first-child){
+	padding-left: 20px;
+}
