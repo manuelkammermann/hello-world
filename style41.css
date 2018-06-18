@@ -166,6 +166,10 @@ h3 {
 }
 
 .tab {    
+	position: absolute;
+    left: 400px;
+    top: 1px;
+    z-index: 1;
     border-style: solid;
     border-color: rgba(0,0,0,0.2);
     border-bottom-style: none;
