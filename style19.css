@@ -154,6 +154,12 @@ h5 {
     margin-bottom: 0.5em;
 }
 
+h5 { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+
 .row > .columns:not(:first-child){
 	padding-left: 20px;
 }
