@@ -166,7 +166,7 @@ h3 {
 }
 
 .tab {
-	position: relative;
+	position: absolute;
     left: 500px;
     top: 0px;
     z-index: 1;
