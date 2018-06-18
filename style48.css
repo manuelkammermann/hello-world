@@ -167,7 +167,7 @@ h3 {
 
 .tab {    
     border-style: solid;
-    border-color: rgba(0,0,0,0.05);
+    border-color: rgba(0,0,0,0);
     border-bottom-style: none;
     border-top-style: none;
     border-right-style: none;
@@ -185,7 +185,7 @@ h3 {
 .taboverlay {
     height: 30px;
     margin: 0px -10px 0px;
-    background-color: white;
+    background-color: rgb(49, 53, 65);
     border-radius: 0px;
 }
 
