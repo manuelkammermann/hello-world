@@ -164,3 +164,21 @@ h3 {
 .row > .columns:not(:first-child){
 	padding-left: 20px;
 }
+
+.tab {
+	border-style: solid;
+    border-color: rgba(0,0,0,0.2);
+    border-bottom-style: none;
+    border-top-style: none;
+    border-right-style: none;
+    color: black;
+    padding: 10px 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.tab.first {
+	border-left-style: none;
+}
+
