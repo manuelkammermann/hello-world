@@ -166,10 +166,6 @@ h3 {
 }
 
 .tab {    
-	position: absolute;
-    left: 600px;
-    top: 1px;
-    z-index: 1;
     border-style: solid;
     border-color: rgba(0,0,0,0.2);
     border-bottom-style: none;
@@ -183,9 +179,19 @@ h3 {
 }
 
 .tab.first {
-	position: absolute;
-    left: 400px;
-    top: 1px;
-    z-index: 1;
 	border-left-style: none;
+}
+
+.taboverlay {
+    height: 20px;
+    margin: 0px -10px 10px;
+    background-color: rgb(49, 53, 65);
+    border-radius: 0px;
+}
+
+.taboverlay h6{
+    color: white;
+    padding-top: 4px;
+    margin-left: 40%;
+    display: inline-block;
 }
