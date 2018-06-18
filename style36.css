@@ -173,8 +173,11 @@ h3 {
 	padding-left: 20px;
 }
 
-.tab {
-	margin-top: 1%;
+.tab {    
+	position: absolute;
+    left: 200px;
+    top: 1px;
+    z-index: 1;
     border-style: solid;
     border-color: rgba(0,0,0,0.2);
     border-bottom-style: none;
