@@ -184,7 +184,7 @@ h3 {
 
 .taboverlay {
     height: 20px;
-    margin: 0px -10px 10px;
+    margin: 0px -10px 0px;
     background-color: rgb(49, 53, 65);
     border-radius: 0px;
 }
