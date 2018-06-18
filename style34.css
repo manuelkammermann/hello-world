@@ -17,14 +17,14 @@ body{
     color: white;
     padding-top: 130px;
     margin-left: 2%;
-    margin-top: 2%;
     display: inline-block;
 }
 
 .banner h6{
-    color: white;
-    padding-top: 10px;
+    color: blue;
+    padding-top: 00px;
     margin-left: 40%;
+    margin-top: 2%;
     display: inline-block;
 }
 
