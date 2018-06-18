@@ -191,6 +191,10 @@ h3 {
 }
 
 .tab.first {
+	position: absolute;
+    left: 200px;
+    top: 1px;
+    z-index: 1;
 	border-left-style: none;
 }
 
