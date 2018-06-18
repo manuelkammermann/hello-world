@@ -148,10 +148,14 @@ h6.padded, p.padded{
 	margin-bottom: 0px;
 }
 
-h5.padded, p.padded{ 
-	padding: 1px 3px; 
-	margin-top: 0px;
-	margin-bottom: 0px;
+h6 { 
+    display: block;
+    font-size: .67em;
+    margin-top: 2.33em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
 }
 
 .row > .columns:not(:first-child){
