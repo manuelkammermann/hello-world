@@ -138,7 +138,7 @@ body{
 
 .gs-table-header{ background: rgb(49, 53, 65) !important; -webkit-print-color-adjust: exact; }
 
-.gs-accent-header{ background: rgb(49, 53, 65) !important; -webkit-print-color-adjust: exact; }
+.gs-accent-header{ margin-bottom: 4px, background: rgb(49, 53, 65) !important; -webkit-print-color-adjust: exact; }
 
 div.padded{ padding: 10px; }
 
