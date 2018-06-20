@@ -213,3 +213,7 @@ h3 {
 .tab2.first {
 	border-left-style: none;
 }
+
+.caption {
+     marginLeft: 2%;
+}
