@@ -231,9 +231,13 @@ h3 {
 }
 
 .tabcaption {
-	opacity: 0.5;
+    opacity: 0.5;
 }
 
 .tablayout {
-	width: 106%;
+    width: 106%;
+}
+
+.radioitem {
+    margin-left: 10px;
 }
