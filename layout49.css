@@ -233,3 +233,7 @@ h3 {
 .tabcaption {
 	opacity: 0.5;
 }
+
+.tablayout {
+	width: 106%;
+}
