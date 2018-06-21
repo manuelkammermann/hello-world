@@ -222,3 +222,10 @@ h3 {
     height: 600px;
     width: 600px;
 }
+
+.boxoverlay {
+    text-align: center;
+    margin-left: 5px;
+    margin-top = 5px,
+    margin-bottom = 0px;	
+}
