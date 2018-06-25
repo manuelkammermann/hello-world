@@ -150,7 +150,7 @@ h3 {
     height: 600px;	    
 }
 
-#navigation {
+navigation {
         color: #ffffff;
         font-family: Sans-Serif;
         height: 34px;
@@ -160,7 +160,7 @@ h3 {
         position: relative;
     }
 
-#navigation li a {
+navigation li a {
         color: #000000;
         display: block;
         font-size: 12px;
@@ -169,17 +169,17 @@ h3 {
         text-decoration: none;
     }
 
-#navigation li a:hover {
+navigation li a:hover {
         background-color: #b36521;
         color: #ffffff;
     }
 
-#navigation li a:active {
+navigation li a:active {
         background: #f1d74c;
         color: #ffffff;
     }
 
-#navigation li a.current{
+navigation li a.current{
    color: #ffffff;
    background:#f1d74c;
 }
