@@ -150,15 +150,8 @@ h3 {
     height: 600px;	    
 }
 
-ul.navigation{
-    background:#fff;
-}
-
-ul.navigation li a{
+.topmenu ul li.active a, .topmenu ul li a:hover {
     text-decoration:none;
-}
-
-ul.navigation li a.on{
-    background:yellow;
-    padding:2px 6px;
+    color:#fff;
+    background:url(../images/menu_a.jpg) no-repeat center top;
 }
