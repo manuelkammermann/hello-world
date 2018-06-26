@@ -157,12 +157,12 @@ h3 {
 #page2 #run {
     font-weight: bold;
     padding-bottom: 5px;
-    border-bottom: black 2px solid;
+    border-bottom: white 2px solid;
 }
 
 #page3 #customer {
     padding-bottom: 5px;
-    border-bottom: black 2px solid;
+    border-bottom: white 2px solid;
 }
 
 #page4 #solution {
