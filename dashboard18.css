@@ -151,7 +151,7 @@ h3 {
 }
 
 #page1 #treatment {
-    font: bold;
+    font-weight: bold;
 }
 
 #page2 #run {
