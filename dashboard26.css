@@ -163,8 +163,8 @@ h3 {
 #page3 #customer {
     padding-bottom: 5px;
     border-bottom: white 2px solid;
-    border-left: 15px;
-    border-right: 15px;
+    border-left: 0;
+    border-right: 0;
 }
 
 #page4 #solution {
