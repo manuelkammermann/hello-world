@@ -151,6 +151,5 @@ h3 {
 }
 
 #page1 #treatment {
-    background-color: yellow;
-    text-decoration: line-through;
+    text-decoration: underline;
 }
