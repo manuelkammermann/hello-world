@@ -150,7 +150,7 @@ h3 {
     height: 600px;	    
 }
 
-.topmenu ul li.active a, .topmenu ul li a:hover {
-    text-decoration:overline;
-    color:#fff;
+#page1 #treatment {
+    background-color: yellow;
+    text-decoration: line-through;
 }
