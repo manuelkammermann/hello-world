@@ -152,12 +152,24 @@ h3 {
 
 #page1 #treatment {
     font-weight: bold;
+    padding-bottom: 3px;
+    border-bottom: white 2px solid;
+    border-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 
 #page2 #run {
     font-weight: bold;
     padding-bottom: 5px;
     border-bottom: white 2px solid;
+    border-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 
 #page3 #customer {
