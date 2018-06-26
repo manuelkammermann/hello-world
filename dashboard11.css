@@ -151,6 +151,6 @@ h3 {
 }
 
 .topmenu ul li.active a, .topmenu ul li a:hover {
-    text-decoration:underline;
+    text-decoration:overline;
     color:#fff;
 }
