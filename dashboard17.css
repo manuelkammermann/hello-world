@@ -151,7 +151,7 @@ h3 {
 }
 
 #page1 #treatment {
-    text-decoration: underline;
+    font: bold;
 }
 
 #page2 #run {
