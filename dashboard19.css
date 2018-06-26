@@ -155,11 +155,14 @@ h3 {
 }
 
 #page2 #run {
-    text-decoration: underline;
+    font-weight: bold;
+    padding-bottom: 5px;
+    border-bottom: black 2px solid;
 }
 
 #page3 #customer {
-    text-decoration: underline;
+    padding-bottom: 5px;
+    border-bottom: black 2px solid;
 }
 
 #page4 #solution {
