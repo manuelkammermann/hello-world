@@ -150,7 +150,7 @@ h3 {
     height: 600px;	    
 }
 
-.topmenu ul li.active a, .topmenu ul li a:hover {
+.topmenu ul li.active a{
     text-decoration:overline;
     color:#fff;
 }
