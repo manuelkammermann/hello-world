@@ -195,15 +195,14 @@ h3 {
 }
 
 
-#page2 #runlist {
-    color: blue;
+#page2l #runlist {
     font-weight: bold;
 }
 
-#page3 #customerlist {
+#page3l #customerlist {
     font-weight: bold;
 }
 
-#page4 #solutionlist {
+#page4l #solutionlist {
     font-weight: bold;
 }
