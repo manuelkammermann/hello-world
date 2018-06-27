@@ -189,3 +189,21 @@ h3 {
     padding-right: 0px;
     padding-left: 0px;
 }
+
+#page1 #treatmentlist {
+    font-weight: bold;
+}
+
+
+#page2 #runlist {
+    font-weight: bold;
+}
+
+#page3 #customerlist {
+    font-weight: bold;
+}
+
+
+#page4 #solutionlist {
+    font-weight: bold;
+}
