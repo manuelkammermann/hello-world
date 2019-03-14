@@ -51,6 +51,14 @@ h3 {
 	margin-left: 2%;
 }
 
+h4 { 
+    display: inline;
+    margin-top: 0.5em;
+    margin-bottom: 1em
+	margin-left: 2%;
+}
+
+
 .row > .columns:not(:first-child){
 	padding-left: 20px;
 }
