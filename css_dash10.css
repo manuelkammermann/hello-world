@@ -64,8 +64,7 @@ h4 {
 }
 
 .VirtualizedSelectOption {
-  overflow: hidden;
-  font-size: .8em;
+  overflow: scroll;
 }
 
 .tab {    
